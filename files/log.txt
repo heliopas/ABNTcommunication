@@ -1,0 +1,19 @@
+2022-10-25 17:47:28,793 INFO     Communication start sucess!#
+2022-10-25 17:47:28,796 INFO     Envia commando: 26CMD
+2022-10-25 17:47:29,903 INFO     Rec value Metter: 303338303837
+2022-10-25 17:47:29,903 INFO     CMD para calculo CRC: 303338303837
+2022-10-25 17:47:29,903 INFO     Frame para CRC calc: 303338303837
+2022-10-25 17:47:29,904 INFO     CRC: 3837
+2022-10-25 17:47:29,905 INFO     CRC calculado: 0x965e
+2022-10-25 17:47:29,905 ERROR    CRC        NOK
+2022-10-25 17:47:29,905 ERROR        Erro de CRC!!!
+2022-10-25 17:47:29,905 CRITICAL Value received is wrong!!!!!
+2022-10-25 17:47:29,905 INFO     Envia commando: 26ACK
+2022-10-25 17:47:30,602 INFO     Rec value Metter: 1515
+2022-10-25 17:47:30,603 INFO     CMD para calculo CRC: 1515
+2022-10-25 17:47:30,603 INFO     Frame para CRC calc: 1515
+2022-10-25 17:47:30,603 INFO     CRC: 1515
+2022-10-25 17:47:30,603 INFO     CRC calculado: 0xefce
+2022-10-25 17:47:30,603 ERROR    CRC        NOK
+2022-10-25 17:47:30,603 ERROR        Erro de CRC!!!
+2022-10-25 17:47:30,603 CRITICAL Value received is wrong!!!!!
